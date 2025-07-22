@@ -1,9 +1,9 @@
 # Generative Adversarial Network
 
 ## Main Sections
-- [Brief Introduction](#brief-introduction).
-- [GAN Introduction](#what-is-gan).
-- [My Implementation](#my-implementation).
+- [Brief Introduction](#brief-introduction)
+- [GAN Introduction](#what-is-gan)
+- [My Implementation](#my-implementation)
 - [Model Architecture](#model-architecture)
 - [Results and Insights](#results)
 - [Conclusion](#conclusion)
