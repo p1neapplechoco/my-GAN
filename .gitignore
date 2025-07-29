@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 /data
 .vscode/settings.json
+*.pt
+/runs
